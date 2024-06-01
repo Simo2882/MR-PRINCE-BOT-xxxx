@@ -15,7 +15,7 @@ import {
  
  const defaultMenu = {
   before: `
-  │✫ - 「🛡️ ${botname} 🛡️」 - ✫│\n
+  │✫ - 「🛡️ ✪𝙼𝙸𝙺𝙴𝚈☾︎𝕤𝕚𝕞𝕠☽︎ 🛡️」 - ✫│\n
   
  
  
@@ -190,7 +190,7 @@ import {
    throw e
   }
  }
- handler.command = /^(menu2|h2|hh|help2|\?)$/i
+ handler.command = /^(menu2|mikey|hh|help2|\?)$/i
  
 
  
