@@ -125,13 +125,13 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
+global.princebot = '✪𝙼𝙸𝙺𝙴𝚈☾︎𝕤𝕚𝕞𝕠☽︎•••  ✌︎⃢ ☕︎'
+global.packname = '@/مـــايــــكــــي•••   ✌︎⃢☕︎  ' 
+global.author = 'بصحتك ☠️🔥' 
+global.princeig = 'https://www.instagram.com/simo.belfarsi' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.Princesc = 'https://github.com/PRINCE-GDS/RHE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
