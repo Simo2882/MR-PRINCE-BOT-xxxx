@@ -16,7 +16,7 @@ let handler = async function (m, { conn, __dirname }) {
 
       // Format the repository information with emojis
       const formattedInfo = `
-╭⊱✫🛡️ᑭᖇIᑎᑕᕮ ᗷOT🛡️✫⊱╮
+╭⊱✫✪𝙼𝙸𝙺𝙴𝚈☾︎𝕤𝕚𝕞𝕠☽︎•••  ✌︎⃢ ☕︎✫⊱╮
 │✫ - *📂Repository Name: ${repoData.name}*
 │✫ - *📃Description: ${repoData.description}*
 │✫ - *🛡️Owner: ${repoData.owner.login}*
